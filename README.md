@@ -1,2 +1,2 @@
-# Gitweb
+# Webgit
 WIP
