@@ -1,5 +1,86 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 
 body {
-  font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
+}
+
+.display {
+    font-weight: 400;
+}
+
+.display.large {
+    font-size: 57pt;
+}
+
+.display.medium {
+    font-size: 45pt;
+}
+
+.display.small {
+    font-size: 36pt;
+}
+
+.headline {
+    font-weight: 400;
+}
+
+.headline.large {
+    font-size: 32pt;
+}
+
+.headline.medium {
+    font-size: 28pt;
+}
+
+.headline.small {
+    font-size: 24pt;
+}
+
+.title {
+    font-weight: 500;
+}
+
+.title.large {
+    font-size: 22pt;
+    font-weight: 400;
+}
+
+.title.medium {
+    font-size: 16pt;
+}
+
+.title.small {
+    font-size: 14pt;
+}
+
+.body {
+    font-weight: 400;
+}
+
+.body.large {
+    font-size: 16pt;
+}
+
+.body.medium {
+    font-size: 14pt;
+}
+
+.body.small {
+    font-size: 12pt;
+}
+
+.label {
+    font-weight: 500;
+}
+
+.label.large {
+    font-size: 14pt;
+}
+
+.label.medium {
+    font-size: 12pt;
+}
+
+.label.small {
+    font-size: 11pt;
 }
