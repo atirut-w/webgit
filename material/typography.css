@@ -4,8 +4,12 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
-.display {
+.display .headline .body {
     font-weight: 400;
+}
+
+.title .label {
+    font-weight: 500;
 }
 
 .display.large {
@@ -23,10 +27,6 @@ body {
     line-height: 44pt;
 }
 
-.headline {
-    font-weight: 400;
-}
-
 .headline.large {
     font-size: 32pt;
     line-height: 40pt;
@@ -40,10 +40,6 @@ body {
 .headline.small {
     font-size: 24pt;
     line-height: 32pt;
-}
-
-.title {
-    font-weight: 500;
 }
 
 .title.large {
@@ -62,10 +58,6 @@ body {
     line-height: 20pt;
 }
 
-.body {
-    font-weight: 400;
-}
-
 .body.large {
     font-size: 16pt;
     line-height: 24pt;
@@ -79,10 +71,6 @@ body {
 .body.small {
     font-size: 12pt;
     line-height: 16pt;
-}
-
-.label {
-    font-weight: 500;
 }
 
 .label.large {
